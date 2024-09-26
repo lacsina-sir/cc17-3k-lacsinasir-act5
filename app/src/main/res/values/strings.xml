@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Artspace</string>
+    <string name="arhurtnery">Arthur Nery</string>
+    <string name="arthur_year">2020</string>
+    <string name="arthur_artst">Eren Mikasa</string>
+    <string name="dr_strange">Dr Strange</string>
+    <string name="dr_strange_year">2015</string>
+    <string name="dr_strange_artst">Yinyuming</string>
+    <string name="naruto">Anbo</string>
+    <string name="naruto_artst">Sakimichichan</string>
+    <string name="naruto_year">2015</string>
+    <string name="red_little">Red Little riding hood</string>
+    <string name="red_little_artst">Fernanda Suarez</string>
+    <string name="red_little_year">2021</string>
+    <string name="wed_art">Wednesday</string>
+    <string name="wed_artst">Malgorzata_mikart</string>
+    <string name="wed_year">2022</string>
+</resources>
